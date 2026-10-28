@@ -65,4 +65,21 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 StarShip is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://v-technologies.com/
+
+**Areas:** Shipping · Carrier Rates · Discounted Shipping
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://starshipme.com/)
+- [Documentation](https://dev.starshipme.com/)
+- [Support](https://starshipme.com/help/)
+- [Terms of service](https://starshipme.com/terms/)
+- [Privacy policy](https://starshipme.com/privacy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/starship-shipping/](https://apis.io/providers/starship-shipping/).
